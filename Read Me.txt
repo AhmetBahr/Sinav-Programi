@@ -1,0 +1,2 @@
+Algoritma2 için verilen sınav programı
+	10 soruluk bir test yapıp kullanıcının toplam kaç soruyu doğru yaptığını bulan java programını yapıyoruz
